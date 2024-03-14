@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Advancement of Structure Learning Methods for Time Series Data
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+We examine the problem of learning graphical structures characterized by Directed Acyclic Graphs (DAGs) on time series data. DYNOTEARS adapts the methods used in NOTEARS to learn linear time series DAGs using a least squares score function. Recently, methods such as GOLEM improve the performance in the time-static linear case by deriving a score function via maximum likelihood. Further improvements have been made by DAGMA, adding support for learning non-linear relationships as well. We introduce two new methods, GOLEM-TS and DAGMA-TS, which adapt the findings from GOLEM and DAGMA to the time series case. We find that this adaption improves performance compared to DYNOTEARS.
